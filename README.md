@@ -2,10 +2,10 @@
 
 Developers
 -----------
-1. Francis Blankson
-2. Nathaniel Bonney
-3. Woena Agordah
-4. Selorm Avokeh
-5. Knapps Kofi Appiah
-6. Emmanuel Bessah
+1. Francis Blankson FB
+2. Nathaniel Bonney NB
+3. Woena Agordah WA
+4. Selorm Avokeh SA
+5. Knapps Kofi Appiah KKA
+6. Emmanuel Bessah EM
 
